@@ -1,0 +1,2 @@
+# WatchdogAndroid
+用于测试Android的Watchdog的Linux可执行程序。
